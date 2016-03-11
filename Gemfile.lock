@@ -119,6 +119,3 @@ DEPENDENCIES
   rake
   sprockets
   uglifier
-
-BUNDLED WITH
-   1.10.6
