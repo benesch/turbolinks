@@ -1,0 +1,22 @@
+{
+  "name": "turbolinks",
+  "version": "5.0.0-beta3",
+  "description": "Turbolinks makes navigating your web application faster",
+  "main": "dist/turbolinks.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benesch/turbolinks.git"
+  },
+  "author": "David Heinemeier Hansson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benesch/turbolinks/issues"
+  },
+  "homepage": "https://github.com/benesch/turbolinks#readme"
+}
